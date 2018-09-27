@@ -1,0 +1,49 @@
+﻿{
+    "subject": {
+        "key": "LIDOxSL"
+    },
+    "attributes": [
+
+    ],
+    "site": {
+        "key": "39101645"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.924484546812885,
+            51.6648102681219
+        ],
+        "bounds": [
+            -3.924484546812885,
+            51.6648102681219,
+            -3.924484546812885,
+            51.6648102681219
+        ]
+    },
+    "locationDescription": "Location set by IBM Watson",
+    "enquiryDesc": "Defective Electric Wire, caught by the infrared camera sensor\nPowered by IBM Watson.",
+    "classification": {
+        "key": "C"
+    },
+    "assignedToOfficer": {
+        "key": "RG"
+    },
+    "customers": [
+        {
+            "contact": {
+                "method": {
+                    "key": "TE"
+                },
+                "customerType": {
+                    "key": "PU"
+                },
+                "surname": "Automatic",
+                "pointOfContact": {
+                    "key": "RECP"
+                }
+            }
+        }
+    ],
+    "logEffectiveDate": "2018-09-13T13:16:41"
+}

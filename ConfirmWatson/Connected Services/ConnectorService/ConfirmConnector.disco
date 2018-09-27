@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://localhost:81/Connector/ConfirmConnector.asmx?wsdl" docRef="http://localhost:81/Connector/ConfirmConnector.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://localhost:81/Connector/ConfirmConnector.asmx" xmlns:q1="http://www.confirm.co.uk/schema/am/connector/webservice" binding="q1:ConfirmConnectorSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://localhost:81/Connector/ConfirmConnector.asmx" xmlns:q2="http://www.confirm.co.uk/schema/am/connector/webservice" binding="q2:ConfirmConnectorSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

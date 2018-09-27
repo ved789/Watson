@@ -1,0 +1,30 @@
+﻿<Request>
+  <Authentication>
+    <Username>SBS</Username>
+    <Password>sbs</Password>
+    <DatabaseId>QAUtil</DatabaseId>
+  </Authentication>
+  <Operation>
+    <NewEnquiry>
+      <EnquiryNumber>{0}</EnquiryNumber>
+      <ServiceCode>PL</ServiceCode>
+      <SubjectCode>PLF</SubjectCode>
+      <EnquiryDescription>Power line fault detected by IBM Watson!</EnquiryDescription>
+      <EnquiryLocation>Power line</EnquiryLocation>
+      <EnquiryStatusCode>0010</EnquiryStatusCode>
+      <AssignedOfficerCode>SBS</AssignedOfficerCode>
+      <StatusLogNotes>Enquiry Received from IBM Watson!</StatusLogNotes>
+      <LoggedTime>{1}</LoggedTime>
+      <EnquiryX>{2}</EnquiryX>
+      <EnquiryY>{3}</EnquiryY>
+      <CentralAssetId>{4}</CentralAssetId>
+      <ContactName>Thermal Surveyer</ContactName>
+      <ContactPhone>01634 880141</ContactPhone>
+      <ContactAltPhone>01634 823709</ContactAltPhone>
+      <ContactFax>01634 880383</ContactFax>
+      <ContactEmail>someone@somewhere.com</ContactEmail>
+      <EnquiryReference>ARC3000040</EnquiryReference>
+      <EnquiryClassCode>C</EnquiryClassCode>
+    </NewEnquiry>
+  </Operation>
+</Request>

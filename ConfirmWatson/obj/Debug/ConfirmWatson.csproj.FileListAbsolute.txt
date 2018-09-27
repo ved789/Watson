@@ -1,0 +1,36 @@
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\ConfirmWatson.exe.config
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\ConfirmWatson.exe
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\ConfirmWatson.pdb
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\MediaToolkit.dll
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\MediaToolkit.pdb
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\obj\Debug\ConfirmWatson.csprojAssemblyReference.cache
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\obj\Debug\ConfirmWatson.csproj.CoreCompileInputs.cache
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\obj\Debug\ConfirmWatson.csproj.CopyComplete
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\obj\Debug\ConfirmWatson.exe
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\obj\Debug\ConfirmWatson.pdb
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\Newtonsoft.Json.dll
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\Newtonsoft.Json.xml
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\Enquiry.json
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\NewEnquiryCrmAgentReq.xml
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\Enquiry.json
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\ConfirmWatson.exe.config
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\ConfirmWatson.exe
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\ConfirmWatson.pdb
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\MediaToolkit.dll
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\Newtonsoft.Json.dll
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\MediaToolkit.pdb
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\Newtonsoft.Json.xml
+E:\Confirm\HeyWatsonCode\ConfirmWatson\obj\Debug\ConfirmWatson.csprojResolveAssemblyReference.cache
+E:\Confirm\HeyWatsonCode\ConfirmWatson\obj\Debug\ConfirmWatson.csproj.CoreCompileInputs.cache
+E:\Confirm\HeyWatsonCode\ConfirmWatson\obj\Debug\ConfirmWatson.csproj.CopyComplete
+E:\Confirm\HeyWatsonCode\ConfirmWatson\obj\Debug\ConfirmWatson.exe
+E:\Confirm\HeyWatsonCode\ConfirmWatson\obj\Debug\ConfirmWatson.pdb
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\MapInfo.CoreEngine.DLL
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\MapInfo.CoreTypes.dll
+E:\Confirm\HeyWatsonCode\ConfirmWatson\obj\Debug\ConfirmWatson.exe.config
+E:\Confirm\HeyWatsonCode\ConfirmWatson\bin\Debug\AssetSearch.xml
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\AssetSearch.xml
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\NewEnquiryCrmAgentReq.xml
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\MapInfo.CoreEngine.DLL
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\bin\Debug\MapInfo.CoreTypes.dll
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\ConfirmWatson\obj\Debug\ConfirmWatson.exe.config

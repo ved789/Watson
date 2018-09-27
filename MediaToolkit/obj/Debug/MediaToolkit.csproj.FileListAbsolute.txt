@@ -1,0 +1,16 @@
+D:\Softwares\Downloads\MediaToolkit\MediaToolkit src\MediaToolkit\bin\Debug\MediaToolkit.dll
+D:\Softwares\Downloads\MediaToolkit\MediaToolkit src\MediaToolkit\bin\Debug\MediaToolkit.pdb
+D:\Softwares\Downloads\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.csprojAssemblyReference.cache
+D:\Softwares\Downloads\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.Properties.Resources.resources
+D:\Softwares\Downloads\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.csproj.GenerateResource.cache
+D:\Softwares\Downloads\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.csproj.CoreCompileInputs.cache
+D:\Softwares\Downloads\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.dll
+D:\Softwares\Downloads\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.pdb
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\MediaToolkit\bin\Debug\MediaToolkit.dll
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\MediaToolkit\bin\Debug\MediaToolkit.pdb
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.csprojAssemblyReference.cache
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.Properties.Resources.resources
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.csproj.GenerateResource.cache
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.csproj.CoreCompileInputs.cache
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.dll
+D:\Confirm\Branches\PoC\Watson\MediaToolkit\MediaToolkit src\MediaToolkit\obj\Debug\MediaToolkit.pdb

@@ -1,0 +1,15 @@
+﻿<Request>
+  <Authentication>
+    <Username>SBS</Username>
+    <Password>sbs</Password>
+    <DatabaseId>QAUtil</DatabaseId>
+  </Authentication>
+  <Operation>
+    <AssetSearch>
+      <SearchBoundX1>{0}</SearchBoundX1>
+      <SearchBoundY1>{1}</SearchBoundY1>
+      <SearchBoundX2>{2}</SearchBoundX2>
+      <SearchBoundY2>{3}</SearchBoundY2>
+    </AssetSearch>
+  </Operation>
+</Request>
